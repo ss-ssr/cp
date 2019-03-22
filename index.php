@@ -21,12 +21,12 @@
                         <nav id="menu" class="navigation">
                             <ul id="nav">
                                 <li style="z-index: 100;">
-                                    <a href="https://cp.shadowsocks.network" class="">首页</a>
+                                    <a href="http://cp.shadowsocks.network" class="">首页</a>
                                 </li>
-                                <li style="z-index: 99;"><a href="https://shadowsocks.network" class="">下载</a></li>
-                                <li style="z-index: 98;"><a href="https://shadowsocks.network" class="">帮助</a></li>
-                                <li style="z-index: 97;"><a href="https://shadowsocks.network" class="">联系</a></li>
-                                <li style="z-index: 95;"><a href="https://shadowsocks.network" class="">登陆</a></li>
+                                <li style="z-index: 99;"><a href="http://shadowsocks.network" class="">下载</a></li>
+                                <li style="z-index: 98;"><a href="http://shadowsocks.network" class="">帮助</a></li>
+                                <li style="z-index: 97;"><a href="http://shadowsocks.network" class="">联系</a></li>
+                                <li style="z-index: 95;"><a href="http://shadowsocks.network" class="">登陆</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -39,8 +39,8 @@
 					<div class="ten-and-half columns omega"><h1>一个安全的Socks5代理，</h1><h1>旨在保护您的Internet流量。</h1></div>
 					<div class="four-and-half columns alpha">
 						
-						<a href="https://shadowsocks.network" class="btn-download link"><span><i class="fa fa-download fa-lg"></i>&nbsp; 现在就试试！</span></a>
-						<a href="https://shadowsocks.network" class="btn-support link"><span><i class="fa fa-phone fa-lg"></i>&nbsp; 需要支持</span></a>
+						<a href="http://shadowsocks.network" class="btn-download link"><span><i class="fa fa-download fa-lg"></i>&nbsp; 现在就试试！</span></a>
+						<a href="http://shadowsocks.network" class="btn-support link"><span><i class="fa fa-phone fa-lg"></i>&nbsp; 需要支持</span></a>
 					</div>
 				</div>
 			</div>
@@ -99,7 +99,7 @@
 	<div class="container">
 		<div class="sisteen columns">
 			<span class="copyright">
-				<a href="https://shadowsocks.network">Shadowsocks.Network</a>
+				<a href="http://shadowsocks.network">Shadowsocks.Network</a>
 			</span>
 		</div>
 	</div>
